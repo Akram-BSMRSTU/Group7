@@ -6,3 +6,9 @@ Hello, I am Akram Khan. I am passionate about technology and enjoy working on so
 Thesis
 
 Thesis Topic A: Depression Detection Using BERT Pre-trained Model
+
+Team Members
+Nafis Khan
+
+About Me
+I'm a full time sqa engineer at Riseup labs.Studied at Daffodil International University.
